@@ -41,7 +41,7 @@ const TermsPage: React.FC = () => {
         <ul>
           <li>我们有权根据需要随时修改本使用条款，变更内容将在页面显著位置公告。</li>
         </ul>
-        <p className="text-center mt-10">感谢您使用zmail临时邮箱服务！</p>
+        <p className="text-center mt-10">感谢您使用SOARMAIL临时邮箱服务！</p>
       </div>
     </Container>
   );

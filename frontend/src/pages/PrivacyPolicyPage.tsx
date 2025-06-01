@@ -70,7 +70,7 @@ const PrivacyPolicyPage: React.FC = () => {
             如有任何关于隐私政策的问题或建议，请通过项目主页或开源社区联系我们。
           </li>
         </ul>
-        <p>感谢您信任并使用zmail临时邮箱服务！</p>
+        <p>感谢您信任并使用SOARMAIL临时邮箱服务！</p>
       </div>
     </Container>
   );

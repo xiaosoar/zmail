@@ -12,7 +12,7 @@ const Footer: React.FC = () => {
       <Container>
         <div className="text-center text-sm text-muted-foreground">
           <p className="mb-2">
-            © {year} {t("app.title")}
+            © {year} XIAOSOAR
           </p>
           <div className="flex flex-wrap justify-center items-center space-x-4 mb-2">
             <Link
